@@ -1,0 +1,32 @@
+/Users/pabloalberto/Desktop/TrabalhoDeIA/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe.config
+/Users/pabloalberto/Desktop/TrabalhoDeIA/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe
+/Users/pabloalberto/Desktop/TrabalhoDeIA/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe.mdb
+/Users/pabloalberto/Desktop/TrabalhoDeIA/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.csprojResolveAssemblyReference.cache
+/Users/pabloalberto/Desktop/TrabalhoDeIA/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.exe
+/Users/pabloalberto/Desktop/TrabalhoDeIA/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.exe.mdb
+C:/Users/Ramon/Documents/Visual Studio 2017/Projects/TrabalhoDeIA/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe.config
+C:/Users/Ramon/Documents/Visual Studio 2017/Projects/TrabalhoDeIA/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe
+C:/Users/Ramon/Documents/Visual Studio 2017/Projects/TrabalhoDeIA/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.pdb
+C:/Users/Ramon/Documents/Visual Studio 2017/Projects/TrabalhoDeIA/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.exe
+C:/Users/Ramon/Documents/Visual Studio 2017/Projects/TrabalhoDeIA/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.pdb
+C:/Users/Ramon/Documents/Visual Studio 2017/Projects/TrabalhoDeIA/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.csprojResolveAssemblyReference.cache
+/Users/pabloalberto/Desktop/TrabalhoDeIA 2/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe.config
+/Users/pabloalberto/Desktop/TrabalhoDeIA 2/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe
+/Users/pabloalberto/Desktop/TrabalhoDeIA 2/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.csprojResolveAssemblyReference.cache
+/Users/pabloalberto/Desktop/TrabalhoDeIA 2/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.exe
+/Users/pabloalberto/Desktop/TrabalhoDeIA 2/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.pdb
+/Users/pabloalberto/Desktop/TrabalhoDeIA 2/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.csproj.CoreCompileInputs.cache
+/Users/pabloalberto/Desktop/TrabalhoDeIA 2/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.pdb
+C:/Users/João Victor/Downloads/Trabalho IA/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe.config
+C:/Users/João Victor/Downloads/Trabalho IA/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe
+C:/Users/João Victor/Downloads/Trabalho IA/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.pdb
+C:/Users/João Victor/Downloads/Trabalho IA/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.csprojResolveAssemblyReference.cache
+C:/Users/João Victor/Downloads/Trabalho IA/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.exe
+C:/Users/João Victor/Downloads/Trabalho IA/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.pdb
+/Users/pabloalberto/Desktop/Trabalho IA Alterações Finais/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe.config
+/Users/pabloalberto/Desktop/Trabalho IA Alterações Finais/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.exe
+/Users/pabloalberto/Desktop/Trabalho IA Alterações Finais/TrabalhoDeIA/bin/Debug/TrabalhoDeIA.pdb
+/Users/pabloalberto/Desktop/Trabalho IA Alterações Finais/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.csprojResolveAssemblyReference.cache
+/Users/pabloalberto/Desktop/Trabalho IA Alterações Finais/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.csproj.CoreCompileInputs.cache
+/Users/pabloalberto/Desktop/Trabalho IA Alterações Finais/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.exe
+/Users/pabloalberto/Desktop/Trabalho IA Alterações Finais/TrabalhoDeIA/obj/Debug/TrabalhoDeIA.pdb
